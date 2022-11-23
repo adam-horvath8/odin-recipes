@@ -1,0 +1,15 @@
+body{
+    background-color: bisque;
+}
+.img{
+    height: 400px;
+}
+.heading{
+    color: rgb(108, 35, 35);
+}
+p{
+    font-size:20px;
+}
+.items{
+    margin-top: 6px;
+}
